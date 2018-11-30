@@ -95,7 +95,6 @@ Canadians want to have confidence that government digital services are designed 
 * Implement layered defenses to reduce exposure to cyber threats with increased awareness and understanding to proactively manage such threats
 
 **Alpha Stage**
-{: .dpgn-data-ignore}
 
 * {: .dpgn-stage-alpha .dpgn-stage-beta .dpgn-stage-live}Plan recurring interactions with the business and information risk teams to ensure ongoing alignment.
 * {: .dpgn-stage-alpha}Integrate a security advisor into the delivery team to support IT security risk management throughout the full delivery of the service.
@@ -104,9 +103,8 @@ Canadians want to have confidence that government digital services are designed 
 * {: .dpgn-stage-alpha}Ensure all APIs have appropriate authentication and that only authorized users/services are able to access the information; “open data” APIs are explicitly configured to allow access by all by default.
 
 **Beta Stage**
-{: .dpgn-data-ignore}
 
-{: .dpgn-standards-hide .dpgn-stage-beta} **Note:** Beta Stage includes all elements from the previous Alpha stage, plus the following:
+{: .dpgn-stage-beta} **Note:** Beta Stage includes all elements from the previous Alpha stage, plus the following:
 
 * {: .dpgn-stage-beta .dpgn-stage-live}Where collecting personal information, inform users about privacy rights and protections, and about their right to access and correct their own personal information.
 * {: .dpgn-stage-beta .dpgn-stage-live}Use appropriate de-identification strategies to minimize the risk of disclosing personal information.
@@ -119,9 +117,8 @@ Canadians want to have confidence that government digital services are designed 
 * {: .dpgn-stage-beta .dpgn-stage-live}Ensure all APIs are developed in alignment with secure connection guidance; APIs should be accessed over HTTPS.
 
 **Live Stage**
-{: .dpgn-data-ignore}
 
-{: .dpgn-standards-hide .dpgn-stage-beta} **Note:** Live Stage includes all elements from the previous Alpha and Beta stages, plus the following:
+{: .dpgn-stage-live} **Note:** Live Stage includes all elements from the previous Alpha and Beta stages, plus the following:
 
 * {: .dpgn-stage-live}Establish agreements with 3rd parties who may benefit from receiving data from your service in accordance with guidance such as the TBS Guidance on Preparing Information Sharing Agreements Involving Personal Information, to ensure they will treat your data with appropriate care.
 
